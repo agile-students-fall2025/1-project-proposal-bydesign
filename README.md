@@ -2,6 +2,8 @@
 # Crux
 *Train smarter. Climb harder.*
 
+---
+
 ## What and Why
 
 Built by climbers, for climbers, **Crux** personalizes training schedules with science-backed principles. 
