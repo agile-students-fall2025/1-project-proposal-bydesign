@@ -10,7 +10,7 @@ Our sport is a full-body one—climbers need finger strength, mobility, enduranc
  
  ---
 
-### For Whom
+## For Whom
 
 This software is for climbers who have faced the same questions we have: 
 
@@ -22,7 +22,7 @@ If you love climbing, chances are you've faced these issues yourself. If so, we'
 
   ---
 
-### Core Features
+## Core Features
 
 Crux's core features are its **Benchmark** and its **Schedulizer**. The two work in a tandem loop to optimize training schedules. 
 
@@ -34,7 +34,7 @@ The Benchmark and Schedulizer work in a loop to allow **Crux** to adapt to each 
 
 ---
 
-### Stretch Goals
+## Stretch Goals
   - **Workout Buddy**
     - All-in-one, hands-free timer, tracker, and organizer for common workouts like fingerboarding and edge lifts.
   - **Performance Graphs**
@@ -44,5 +44,8 @@ The Benchmark and Schedulizer work in a loop to allow **Crux** to adapt to each 
   - **Third-party integration**
 	  - Import health data from one or multiple existing web APIs like Strava, Oura, and Garmin. 
 ---
-### Scope
+## Scope
 The two core features can be prototyped using standard technologies for user input and data collection but leave a *huge* amount of room for innovation and optimization. This ensures the project is appropriately challenging from the start while offering plenty of room to expand as the team's capabilities grow.
+
+---
+Author: [Ethan Arnold](https://github.com/ethanarnold)
